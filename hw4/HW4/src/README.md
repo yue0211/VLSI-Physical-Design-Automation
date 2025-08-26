@@ -1,0 +1,16 @@
+--How to Compile
+  In "HW4/src", enter the following command:
+  $ make
+  An executable file "hw4" will be generated in "HW4/bin/".
+  
+
+  If you want to remove the executable file, please enter the following command:
+  $ make clean
+
+--How to Run
+  Usage:
+  $ ./hw4 <txt file> <out file>
+
+
+  E.g., in "HW4/bin/", enter the following command:
+  $ ./hw4 ../testcase/public1.txt ../output/public1.out
